@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="304" width="full" src="https://github.com/brinto-swe/brinto-swe/blob/df05fe38ee3914bbae6b009ab6ac4d41c2beadc1/Image%20Sep%2029%2C%202026%2C%2006_45_01%20PM.png"  />
+  <img data-importer="image" height="304" width="full" src="https://github.com/brinto-swe/brinto-swe/blob/9923e5f3ca6b92bf61711b503db2f6087d47a431/Image%20Sep%2029%2C%202026%2C%2006_54_14%20PM.png"  />
 </div>
 
 ###
