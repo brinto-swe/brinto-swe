@@ -4,7 +4,7 @@
   <img data-importer="image" height="304" width="full" src="https://github.com/brinto-swe/brinto-swe/blob/3174b68cb6ebc01f893c5ad6ce76b6e46839f546/Image%20Sep%2029%2C%202026%2C%2006_54_07%20PM.png"  />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Python+%7C+ JavaScript+%7C+Typescript+%7C+React+%7C+Next.js+%7C+Django+%7C+PostgreSQL;Full-Stack+Development+%26+AL/ML+%26+Research+Oriented+Projects;Clean+Code+%7C+Reusable+Architecture+%7C+Problem+Solving;" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72929&width=435&lines=Software+Engineer;Python+%7C+JavaScript+%7C+Typescript+%7C+React+%7C+NextJS+%7C+Django+%7C+PostgreSQL;Full-Stack+Development%2C+AI%2FML+and+research-oriented+projects)](https://git.io/typing-svg)
 <br clear="both">
 <p data-importer="text" align="center">Hi, I’m Brinto<br>A Software Engineer passionate about building scalable web applications and exploring Artificial Intelligence and Machine Learning.<br><br>I work with Python, JavaScript, React, Django, PostgreSQL, and modern web technologies, and I enjoy turning ideas into practical, user-focused software.<br><br>Currently, I’m focusing on Full-Stack Development, AI/ML, and research-oriented projects, while continuously learning and building new things.</p>
 
