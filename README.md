@@ -1,10 +1,8 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="304" width="full" src="https://github.com/brinto-swe/brinto-swe/blob/9923e5f3ca6b92bf61711b503db2f6087d47a431/Image%20Sep%2029%2C%202026%2C%2006_54_14%20PM.png"  />
+  <img data-importer="image" height="304" width="full" src="https://github.com/brinto-swe/brinto-swe/blob/3174b68cb6ebc01f893c5ad6ce76b6e46839f546/Image%20Sep%2029%2C%202026%2C%2006_54_07%20PM.png"  />
 </div>
-
-<br clear="both">
 
 <p data-importer="text" align="center">Hi, I’m Brinto<br>A Software Engineer passionate about building scalable web applications and exploring Artificial Intelligence and Machine Learning.<br><br>I work with Python, JavaScript, React, Django, PostgreSQL, and modern web technologies, and I enjoy turning ideas into practical, user-focused software.<br><br>Currently, I’m focusing on Full-Stack Development, AI/ML, and research-oriented projects, while continuously learning and building new things.</p>
 
