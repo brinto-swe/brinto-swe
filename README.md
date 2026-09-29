@@ -4,9 +4,8 @@
   <img data-importer="image" height="304" width="full" src="https://github.com/brinto-swe/brinto-swe/blob/3174b68cb6ebc01f893c5ad6ce76b6e46839f546/Image%20Sep%2029%2C%202026%2C%2006_54_07%20PM.png"  />
 </div>
 
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Python+%7C+ JavaScript+%7C+Typescript+%7C+React+%7C+Next.js+%7C+Django+%7C+PostgreSQL;Full-Stack+Development+%26+AL/ML+%26+Research+Oriented+Projects;Clean+Code+%7C+Reusable+Architecture+%7C+Problem+Solving;" alt="Typing SVG"/>
 <br clear="both">
-
 <p data-importer="text" align="center">Hi, I’m Brinto<br>A Software Engineer passionate about building scalable web applications and exploring Artificial Intelligence and Machine Learning.<br><br>I work with Python, JavaScript, React, Django, PostgreSQL, and modern web technologies, and I enjoy turning ideas into practical, user-focused software.<br><br>Currently, I’m focusing on Full-Stack Development, AI/ML, and research-oriented projects, while continuously learning and building new things.</p>
 
 ###
@@ -19,11 +18,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">Languages  I Know:</h3>
+<h5 data-importer="text" align="left">Languages  I Know:</h5>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -43,11 +42,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">Frameworks & Libraries:</h3>
+<h5 data-importer="text" align="left">Frameworks & Libraries:</h5>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -61,11 +60,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">Databases:</h3>
+<h5 data-importer="text" align="left">Databases:</h5>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
@@ -75,13 +74,13 @@
 
 ###
 
-<h3 data-importer="text" align="left">Tools:</h3>
+<h5 data-importer="text" align="left">Tools:</h5>
 
 ###
 
 <br clear="both">
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -93,11 +92,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">AI/ML:</h3>
+<h5 data-importer="text" align="left">AI/ML:</h5>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -123,7 +122,7 @@
 
 <br clear="both">
 
-<h3 data-importer="text" align="left">Connect me with:</h3>
+<h5 data-importer="text" align="left">Connect me with:</h3>
 
 ###
 
@@ -166,4 +165,3 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/brinto-swe/brinto-swe/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-Hey, hey, hey! You also generated workflow files in .github/workflows .
