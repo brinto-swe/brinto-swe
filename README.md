@@ -48,14 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&section=header&reversal=false&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
-
 <h3 data-importer="text" align="left">Frameworks & Libraries:</h3>
 
 ###
@@ -74,14 +66,6 @@
 
 ###
 
-<br clear="both">
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&section=header&reversal=false&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
-
 <h3 data-importer="text" align="left">Databases:</h3>
 
 ###
@@ -92,14 +76,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&section=header&reversal=false&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -118,14 +94,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&section=header&reversal=false&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -203,3 +171,4 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/brinto-swe/brinto-swe/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+Hey, hey, hey! You also generated workflow files in .github/workflows .
