@@ -4,11 +4,6 @@
   <img data-importer="image" height="304" width="full" src="https://github.com/brinto-swe/brinto-swe/blob/3174b68cb6ebc01f893c5ad6ce76b6e46839f546/Image%20Sep%2029%2C%202026%2C%2006_54_07%20PM.png"  />
 </div>
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=32&section=header&reversal=false&text=K%20M%20Mozaddedul%20Islam&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
 
 <br clear="both">
 
