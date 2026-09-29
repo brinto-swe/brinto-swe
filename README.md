@@ -4,15 +4,31 @@
   <img data-importer="image" height="304" width="full" src="https://github.com/brinto-swe/brinto-swe/blob/3174b68cb6ebc01f893c5ad6ce76b6e46839f546/Image%20Sep%2029%2C%202026%2C%2006_54_07%20PM.png"  />
 </div>
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=32&section=header&reversal=false&text=K%20M%20Mozaddedul%20Islam&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<br clear="both">
+
 <p data-importer="text" align="center">Hi, I’m Brinto<br>A Software Engineer passionate about building scalable web applications and exploring Artificial Intelligence and Machine Learning.<br><br>I work with Python, JavaScript, React, Django, PostgreSQL, and modern web technologies, and I enjoy turning ideas into practical, user-focused software.<br><br>Currently, I’m focusing on Full-Stack Development, AI/ML, and research-oriented projects, while continuously learning and building new things.</p>
 
 ###
 
-<h3 data-importer="text" align="center">Languages  I Know:</h3>
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
-<div data-importer="techs" align="center">
+<h3 data-importer="text" align="left">Languages  I Know:</h3>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -32,11 +48,19 @@
 
 ###
 
-<h3 data-importer="text" align="center">Frameworks & Libraries:</h3>
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&section=header&reversal=false&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
-<div data-importer="techs" align="center">
+<h3 data-importer="text" align="left">Frameworks & Libraries:</h3>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -50,11 +74,19 @@
 
 ###
 
-<h3 data-importer="text" align="center">Databases:</h3>
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&section=header&reversal=false&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
-<div data-importer="techs" align="center">
+<h3 data-importer="text" align="left">Databases:</h3>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
@@ -64,13 +96,21 @@
 
 ###
 
-<h3 data-importer="text" align="center">Tools:</h3>
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&section=header&reversal=false&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">Tools:</h3>
 
 ###
 
 <br clear="both">
 
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -82,11 +122,19 @@
 
 ###
 
-<h3 data-importer="text" align="center">AI/ML:</h3>
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&section=header&reversal=false&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
-<div data-importer="techs" align="center">
+<h3 data-importer="text" align="left">AI/ML:</h3>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -104,11 +152,19 @@
 
 <br clear="both">
 
-<h3 data-importer="text" align="center">Connect me with:</h3>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
-<div data-importer="socials" align="center">
+<br clear="both">
+
+<h3 data-importer="text" align="left">Connect me with:</h3>
+
+###
+
+<div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/mozaddedul-swe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -135,6 +191,15 @@
   </a>
 </div>
 
-[![](https://komarev.com/ghpvc/?username=brinto-swe&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/brinto-swe/brinto-swe/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/brinto-swe/brinto-swe/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/brinto-swe/brinto-swe/snake-output/snake.svg" alt="Snake animation" />
 
 ###
